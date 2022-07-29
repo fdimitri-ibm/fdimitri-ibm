@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @fdimitri-ibm
-- 📫 Reach me at <frank.dimitri@ibm.com>
+- 📫 I'm available at <frank.dimitri@ibm.com>
 
 <!---
 fdimitri-ibm/fdimitri-ibm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
