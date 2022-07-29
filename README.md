@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @fdimitri-ibm
+- 👋 @fdimitri-ibm here, sometimes known as @fdimitri
 - 📫 I'm available at <frank.dimitri@ibm.com>
 
 <!---
